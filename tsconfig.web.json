@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "skipLibCheck": true,
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "jsx": "react-jsx",
+    "strict": true,
+    "target": "ESNext",
+    "lib": ["ESNext", "DOM", "DOM.Iterable"]
+  },
+  "include": ["src/**/*"]
+}
